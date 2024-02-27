@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riwick
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Django and something else...
+- 🌱 I’m currently learning Django, FastAPI and other...
 
 <!---
 Riwick/Riwick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
