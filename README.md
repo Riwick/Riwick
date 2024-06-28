@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riwick
 - 👀 I’m interested in Python Backend Development
-- 🌱 I’m currently learning Django, FastAPI, Docker, Celery, Redis, Postgresql, MySql, MongoDB and other things...
+- 🌱 Now I'm looking for job as Junior Python Backend 
 
 <!---
 Riwick/Riwick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
